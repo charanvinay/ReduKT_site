@@ -17,9 +17,9 @@ Images:
 
 ![Homepage](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/homelight.PNG)
 ![Features](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/features.PNG)
-![]()
-![]()
-![]()
+![Screenshots](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/screenshots.PNG)
+![Download](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/download.PNG)
+![How](https://github.com/charanvinay/ReduKT_site/blob/master/ReduKT_github_images/how.PNG)
 ![]()
 ![]()
 ![]()
